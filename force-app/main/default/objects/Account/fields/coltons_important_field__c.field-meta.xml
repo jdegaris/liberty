@@ -2,6 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>coltons_important_field__c</fullName>
     <defaultValue>false</defaultValue>
+    <description>This is Colton's important field</description>
     <externalId>false</externalId>
     <label>coltons important field</label>
     <trackFeedHistory>false</trackFeedHistory>
